@@ -1,0 +1,2 @@
+# mavenlifecycleex
+javaapplicationfor maven lifecycle
